@@ -4,6 +4,7 @@ Trabajo Final- Curso de Fundamentos de Data Science
 Objetivo del proyecto.
 
 Nombre de los alumnos participantes.
+Karim Wagner Samanamud Mosquera
 
 Breve descripción del conjunto de datos (se puede adjuntar el archivo PDF).
 
