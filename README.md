@@ -5,9 +5,8 @@ Objetivo del proyecto: Reconocer a los clientes que cuentan con una inclinación
 
 
 Nombre de los alumnos participantes:
-U201816862 - Samanamud Mosquera Karim Wagner
-U202014068 - García Napurí Andrea Fabiana
-U20211C009 - Comettant Rubiños Jessica Elizabeth
+Samanamud Mosquera Karim Wagner (U201816862), García Napurí Andrea Fabiana (U202014068) y
+Comettant Rubiños Jessica Elizabeth (U20211C009).
 
 
 Breve descripción del conjunto de datos (se puede adjuntar el archivo PDF).
